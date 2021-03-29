@@ -1,286 +1,430 @@
 {
-    "Television abierta": [
-        {
-            "title": "LAS ESTRELLAS HD",
-            "streamFormat": "hls",
-            "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "Live": false,
-            "description": "Las Estrellas es una cadena de televisión mexicana propiedad de Grupo Televisa. Su primera emisión oficial fue el 21 de marzo de 1951. Transmite en señal abierta en todo el territorio mexicano a través de una red de 129 estaciones retransmisoras propias, 2 estaciones afiliadas y 1 retransmisora por multiprogramación."
-        },
-        {
-            "title": "LAS ESTRELLAS HD OP2",
-            "streamFormat": "hls",
-            "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "Live": false,
-            "description": "Las Estrellas es una cadena de televisión mexicana propiedad de Grupo Televisa. Su primera emisión oficial fue el 21 de marzo de 1951. Transmite en señal abierta en todo el territorio mexicano a través de una red de 129 estaciones retransmisoras propias, 2 estaciones afiliadas y 1 retransmisora por multiprogramación."
-        },
-        {
-            "title": "ESTRELLA TV",
-            "streamFormat": "hls",
-            "Logo": "http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png",
-            "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
-            "Live": false,
-            "description": "Las Estrellas es una cadena de televisión mexicana propiedad de Grupo Televisa. Su primera emisión oficial fue el 21 de marzo de 1951. Transmite en señal abierta en todo el territorio mexicano a través de una red de 129 estaciones retransmisoras propias, 2 estaciones afiliadas y 1 retransmisora por multiprogramación."
-        },
-        {
-            "title": "AZTECA UNO",
-            "streamFormat": "hls",
-            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "Live": false,
-            "description": "TV Azteca, ​ es un conglomerado mexicano de medios de comunicación, Es la segunda mayor generadora de contenidos en español en el mundo, propiedad de Grupo Salinas."
-        },
-        {
-            "title": "AZTECA UNO",
-            "streamFormat": "hls",
-            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "Live": false,
-            "description": "TV Azteca, ​ es un conglomerado mexicano de medios de comunicación, Es la segunda mayor generadora de contenidos en español en el mundo, propiedad de Grupo Salinas."
-        },
-        {
-            "title": "AZTECA UNO OP2",
-            "streamFormat": "mts",
-            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",
-            "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678",
-            "description": "TV Azteca, ​ es un conglomerado mexicano de medios de comunicación, Es la segunda mayor generadora de contenidos en español en el mundo, propiedad de Grupo Salinas.",
-            "Live": false
-        },
-        {
-            "title": "AZTECA 7 HD",
-            "streamFormat": "hls",
-            "Logo": "http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=322&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "AZTECA 7  OP2",
-            "streamFormat": "hls",
-            "Logo": "http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png",
-            "url": "https://m3u-editor.com/serve/telecine/235063619",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "AZ CLIC HD",
-            "streamFormat": "hls",
-            "Logo": "https://yiptv.com/live-tv/wp-content/uploads/2015/05/channels-page-_0036_azclick1.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=11&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "AZ MUNDO",
-            "streamFormat": "hls",
-            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=84&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "AZ CINEMA",
-            "streamFormat": "hls",
-            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "CANAL 5 HD",
-            "streamFormat": "hls",
-            "Logo": "https://i.imgur.com/jJ6v5ea.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=20&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "CANAL 5 HD OP 2",
-            "streamFormat": "hls",
-            "Logo": "https://i.imgur.com/jJ6v5ea.png",
-            "url": "http://23.237.54.42/hls/CANAL5MX.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "NU9VE",
-            "streamFormat": "hls",
-            "Logo": "https://cdn140.picsart.com/278369393029211.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=24&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "NU9VE HD",
-            "streamFormat": "hls",
-            "Logo": "https://cdn140.picsart.com/278369393029211.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1783&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "NU9VE HD OP 2",
-            "streamFormat": "hls",
-            "Logo": "https://cdn140.picsart.com/278369393029211.png",
-            "url": "http://23.237.54.42/hls/CANAL9MX.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "GALAVISION",
-            "streamFormat": "hls",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png",
-            "url": "http://23.237.32.130/hls/GALAVISION.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "UNIVISION MIAMI",
-            "streamFormat": "hls",
-            "Logo": "https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png",
-            "url": "http://23.237.32.130/hls/UNIVISION.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "UNIVISION LOS ANGELES",
-            "streamFormat": "hls",
-            "Logo": "https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png",
-            "url": "https://tv.teleclub.xyz/senal/tele?club=UNIVISION&format=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "UNIVISION ",
-            "streamFormat": "hls",
-            "Logo": "https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png",
-            "url": "https://tv.teleclub.xyz/senal/tele?club=UNIVISIONHD&format=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "A PLUS",
-            "streamFormat": "hls",
-            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2316&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "ONCE HD",
-            "streamFormat": "hls",
-            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1942&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "TELEFORMULA",
-            "streamFormat": "hls",
-            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "MEXIQUENSE 3.1",
-            "streamFormat": "hls",
-            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "IMAGEN TV",
-            "streamFormat": "hls",
-            "Logo": "https://i.blogs.es/213596/imagen-tv-logo/450_1000.jpg",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "MULTIMEDIOS MONTERREY",
-            "streamFormat": "hls",
-            "Logo": "http://photocall.tv/images/multimedios.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "MULTIMEDIOS CDMX",
-            "streamFormat": "hls",
-            "Logo": "http://photocall.tv/images/multimedios.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "APRENDE TV",
-            "streamFormat": "hls",
-            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=401&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "TVMAS",
-            "streamFormat": "hls",
-            "Logo": "https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2324&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "ONCE NIÑOS",
-            "streamFormat": "hls",
-            "Logo": "https://onceninasyninos.tv/wp-content/uploads/2019/07/cropped-Nuevo_Logo_ON-2019-e1561997594507.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3315&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "TVC",
-            "streamFormat": "hls",
-            "Logo": "https://cdn.mitvstatic.com/channels/co_tvc_m.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "RT",
-            "streamFormat": "hls",
-            "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2274&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        },
-        {
-            "title": "FORO TV ",
-            "streamFormat": "hls",
-            "Logo": "https://vignette.wikia.nocookie.net/logopedia/images/7/74/Foro_TV_2016_logo.png/revision/latest?cb=20160822213630",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "description": "",
-            "Live": false
-        }
-    ],
-    "Novelas": [
-        {
-            "title": "Otro dato",
-            "streamFormat": "hls",
-            "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "Live": false,
-            "description": "Calas"
-        },
-        {
-            "title": "TVNovelas",
-            "streamFormat": "hls",
-            "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
-            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-            "Live": false,
-            "description": "Canal de Novelas"
-        }
-    ]
+  "Television abierta": [
+    {
+      "title": "LAS ESTRELLAS HD",
+      "streamFormat": "hls",
+      "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "Live": false,
+      "description": "Las Estrellas es una cadena de televisión mexicana propiedad de Grupo Televisa. Su primera emisión oficial fue el 21 de marzo de 1951. Transmite en señal abierta en todo el territorio mexicano a través de una red de 129 estaciones retransmisoras propias, 2 estaciones afiliadas y 1 retransmisora por multiprogramación."
+    },
+    {
+      "title": "LAS ESTRELLAS HD OP2",
+      "streamFormat": "hls",
+      "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "Live": false,
+      "description": "Las Estrellas es una cadena de televisión mexicana propiedad de Grupo Televisa. Su primera emisión oficial fue el 21 de marzo de 1951. Transmite en señal abierta en todo el territorio mexicano a través de una red de 129 estaciones retransmisoras propias, 2 estaciones afiliadas y 1 retransmisora por multiprogramación."
+    },
+    {
+      "title": "ESTRELLA TV",
+      "streamFormat": "hls",
+      "Logo": "http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png",
+      "url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
+      "Live": false,
+      "description": "Las Estrellas es una cadena de televisión mexicana propiedad de Grupo Televisa. Su primera emisión oficial fue el 21 de marzo de 1951. Transmite en señal abierta en todo el territorio mexicano a través de una red de 129 estaciones retransmisoras propias, 2 estaciones afiliadas y 1 retransmisora por multiprogramación."
+    },
+    {
+      "title": "AZTECA UNO",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "Live": false,
+      "description": "TV Azteca, ​ es un conglomerado mexicano de medios de comunicación, Es la segunda mayor generadora de contenidos en español en el mundo, propiedad de Grupo Salinas."
+    },
+    {
+      "title": "AZTECA UNO",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "Live": false,
+      "description": "TV Azteca, ​ es un conglomerado mexicano de medios de comunicación, Es la segunda mayor generadora de contenidos en español en el mundo, propiedad de Grupo Salinas."
+    },
+    {
+      "title": "AZTECA UNO OP2",
+      "streamFormat": "mts",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",
+      "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678",
+      "description": "TV Azteca, ​ es un conglomerado mexicano de medios de comunicación, Es la segunda mayor generadora de contenidos en español en el mundo, propiedad de Grupo Salinas.",
+      "Live": false
+    },
+    {
+      "title": "AZTECA 7 HD",
+      "streamFormat": "hls",
+      "Logo": "http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=322&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "AZTECA 7  OP2",
+      "streamFormat": "hls",
+      "Logo": "http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png",
+      "url": "https://m3u-editor.com/serve/telecine/235063619",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "AZ CLIC HD",
+      "streamFormat": "hls",
+      "Logo": "https://yiptv.com/live-tv/wp-content/uploads/2015/05/channels-page-_0036_azclick1.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=11&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "AZ MUNDO",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=84&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "AZ CINEMA",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "CANAL 5 HD",
+      "streamFormat": "hls",
+      "Logo": "https://i.imgur.com/jJ6v5ea.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=20&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "CANAL 5 HD OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://i.imgur.com/jJ6v5ea.png",
+      "url": "http://23.237.54.42/hls/CANAL5MX.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NU9VE",
+      "streamFormat": "hls",
+      "Logo": "https://cdn140.picsart.com/278369393029211.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=24&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NU9VE HD",
+      "streamFormat": "hls",
+      "Logo": "https://cdn140.picsart.com/278369393029211.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1783&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NU9VE HD OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://cdn140.picsart.com/278369393029211.png",
+      "url": "http://23.237.54.42/hls/CANAL9MX.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "GALAVISION",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png",
+      "url": "http://23.237.32.130/hls/GALAVISION.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "UNIVISION MIAMI",
+      "streamFormat": "hls",
+      "Logo": "https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png",
+      "url": "http://23.237.32.130/hls/UNIVISION.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "UNIVISION LOS ANGELES",
+      "streamFormat": "hls",
+      "Logo": "https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=UNIVISION&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "UNIVISION ",
+      "streamFormat": "hls",
+      "Logo": "https://aspire.jo/wp-content/uploads/2019/12/Univision-white_a4ccc61316bb33480d5c80d80af4b7f2.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=UNIVISIONHD&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "A PLUS",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2316&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "ONCE HD",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1942&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TELEFORMULA",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MEXIQUENSE 3.1",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "IMAGEN TV",
+      "streamFormat": "hls",
+      "Logo": "https://i.blogs.es/213596/imagen-tv-logo/450_1000.jpg",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MULTIMEDIOS MONTERREY",
+      "streamFormat": "hls",
+      "Logo": "http://photocall.tv/images/multimedios.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MULTIMEDIOS CDMX",
+      "streamFormat": "hls",
+      "Logo": "http://photocall.tv/images/multimedios.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "APRENDE TV",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=401&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TVMAS",
+      "streamFormat": "hls",
+      "Logo": "https://directostv.teleame.com/wp-content/uploads/2017/10/tvmas.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2324&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "ONCE NIÑOS",
+      "streamFormat": "hls",
+      "Logo": "https://onceninasyninos.tv/wp-content/uploads/2019/07/cropped-Nuevo_Logo_ON-2019-e1561997594507.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3315&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TVC",
+      "streamFormat": "hls",
+      "Logo": "https://cdn.mitvstatic.com/channels/co_tvc_m.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "RT",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2274&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "FORO TV ",
+      "streamFormat": "hls",
+      "Logo": "https://vignette.wikia.nocookie.net/logopedia/images/7/74/Foro_TV_2016_logo.png/revision/latest?cb=20160822213630",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    }
+  ],
+  "Novelas": [
+    {
+      "title": "AZ CORAZON",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=aztecacorazon&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "UNICABLE",
+      "streamFormat": "hls",
+      "Logo": "https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "UNICABLE HD",
+      "streamFormat": "hls",
+      "Logo": "https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png",
+      "url": "http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1871_&f.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "PASIONES",
+      "streamFormat": "mts",
+      "Logo": "https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png",
+      "url": "http://tv.iptv5latino.cl:8000/R3n4t0dtvcambio/N5y8cUke59/17786",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "PASIONES OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png",
+      "url": "https://m3u-editor.com/serve/telecine/235063645",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "PASIONES OP 3",
+      "streamFormat": "mts",
+      "Logo": "https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png",
+      "url": "http://localdblagent.club:8080/October25/October25/13745",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TLNOVELAS",
+      "streamFormat": "hls",
+      "Logo": "https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s400/rojo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=83&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "UNIVISION TLNOVELAS",
+      "streamFormat": "mts",
+      "Logo": "https://imgx.fubo.tv/station_logos/tlnovelas_m.png",
+      "url": "http://wohuogai.com:37000/live/381644-4034/1HTu9Jifiq/67596.ts",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "GLITZ",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=76&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "GLITZ OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=GLITZ&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TELEMUNDO INTERNACIONAL",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TELEMUNDO PUERTO RICO",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=TELEMUNDO&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "RCN",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1920px-LogoNTyLR.svg.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=RCN&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "RCN INTERNACIONAL",
+      "streamFormat": "mts",
+      "Logo": "https://imagenes.canalrcn.com/ImgCanal/logos/rcntv-blanco-footer.png",
+      "url": "http://tv.iptv5latino.cl:8000/R3n4t0dtvcambio/N5y8cUke59/3986",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "RCN NOVELAS",
+      "streamFormat": "mts",
+      "Logo": "https://vignette.wikia.nocookie.net/logopedia/images/1/15/RCNnovelas2019.png",
+      "url": "http://tv.iptv5latino.cl:8000/R3n4t0dtvcambio/N5y8cUke59/3982",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "CARACOL",
+      "streamFormat": "hls",
+      "Logo": "https://www.pinclipart.com/picdir/big/519-5196172_caracol-televisin-clipart.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=CARACOLTV&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "CARACOL OP2",
+      "streamFormat": "hls",
+      "Logo": "https://www.pinclipart.com/picdir/big/519-5196172_caracol-televisin-clipart.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=CARACOLTV2&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TELETICA",
+      "streamFormat": "mts",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png",
+      "url": "http://wohuogai.com:37000/live/381644-4034/1HTu9Jifiq/73965.ts",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TELEFE",
+      "streamFormat": "hls",
+      "Logo": "https://media.telebajocero.com/adjuntos/225/imagenes/000/405/0000405645.jpg",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=telefe&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TELEFE OP2",
+      "streamFormat": "hls",
+      "Logo": "https://media.telebajocero.com/adjuntos/225/imagenes/000/405/0000405645.jpg",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=TELEFE&format=.m3u8",
+      "description": "",
+      "Live": false
+    }
+  ]
 }
