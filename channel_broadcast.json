@@ -427,174 +427,1262 @@
       "Live": false
     }
   ],
-  "Discovery":[
-    {   "title": "NACIONAL GEOGRAPHIC CHANNEL",
-        "streamFormat": "hls",
-        "Logo": "https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=nationalgeo&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+  "Discovery": [
+    {
+      "title": "NACIONAL GEOGRAPHIC CHANNEL",
+      "streamFormat": "hls",
+      "Logo": "https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=nationalgeo&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "NAT GEO OP 2",
-        "streamFormat": "hls",
-        "Logo": "https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png",
-        "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=91&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "NAT GEO OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=91&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "NAT GEO WILD",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=nationalwill&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "NAT GEO WILD",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=nationalwill&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "NAT GEO WILD OP 2",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",
-        "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=92&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "NAT GEO WILD OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=92&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "ANIMAL PLANET",
-        "streamFormat": "hls",
-        "Logo": "https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png",
-        "url": "http://23.237.29.98:2095/408animalplanet/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=tU9_MOwo5K_YmlRWG9swZA&expires=1616010656",
-        "description":"",
-        "Live": false
+    {
+      "title": "ANIMAL PLANET",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png",
+      "url": "http://23.237.29.98:2095/408animalplanet/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=tU9_MOwo5K_YmlRWG9swZA&expires=1616010656",
+      "description": "",
+      "Live": false
     },
-    {   "title": "ANIMAL PLANET OP2",
-        "streamFormat": "hls",
-        "Logo": "https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png",
-        "url": "https://tv.teleclub.xyz/senal/tele?club=ANIMALPLANET&format=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "ANIMAL PLANET OP2",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2019_02/large.1129293984_1200px-2018_Animal_Planet_logo.svg-copia.png.b691b46afeb2599db5e727a8bbd642a4.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=ANIMALPLANET&format=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "HISTORY MX",
-        "streamFormat": "hls",
-        "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png",
-        "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "HISTORY MX",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "HISTORY PREMIUM",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1024px-History_HD_Logo.svg.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=history&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "HISTORY PREMIUM",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1024px-History_HD_Logo.svg.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=history&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "H2",
-        "streamFormat": "hls",
-        "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=history2&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "H2",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=history2&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY CHANNEL MX",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/ro/1/19/Large_white.png",
-        "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY CHANNEL MX",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/ro/1/19/Large_white.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY CHANNEL PREMIUM",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/ro/1/19/Large_white.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoverychannel&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY CHANNEL PREMIUM",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/ro/1/19/Large_white.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoverychannel&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY SCIENCE",
-        "streamFormat": "hls",
-        "Logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoverysciencie&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY SCIENCE",
+      "streamFormat": "hls",
+      "Logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoverysciencie&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY H&H",
-        "streamFormat": "hls",
-        "Logo": "http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png",
-        "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY H&H",
+      "streamFormat": "hls",
+      "Logo": "http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY H&H HD",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1024px-H%26h_Logo.svg.png"
-    ,     "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoveryhh&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY H&H HD",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1024px-H%26h_Logo.svg.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoveryhh&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY TURBO",
-        "streamFormat": "hls",
-        "Logo": "http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoveryturbo&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY TURBO",
+      "streamFormat": "hls",
+      "Logo": "http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoveryturbo&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY TURBO OP 2",
-        "streamFormat": "hls",
-        "Logo": "http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png",
-        "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2379&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY TURBO OP 2",
+      "streamFormat": "hls",
+      "Logo": "http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2379&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY WORLD",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoveryworl&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY WORLD",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoveryworl&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY WORLD OP 2",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",
-        "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=101&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY WORLD OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=101&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERI ID",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png",
-        "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=68&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERI ID",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=68&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERI ID OP2",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoveryinvestigacion&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERI ID OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoveryinvestigacion&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY THEATER",
-        "streamFormat": "hls",
-        "Logo": "https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoverytheater&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY THEATER",
+      "streamFormat": "hls",
+      "Logo": "https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=discoverytheater&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY THEATER OP 2",
-        "streamFormat": "hls",
-        "Logo": "https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png",
-        "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=95&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY THEATER OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=95&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY TLC",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png",
-        "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tlc&k=black-ghost&f=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY TLC",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tlc&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
     },
-    {   "title": "DISCOVERY TLC OP 2",
-        "streamFormat": "hls",
-        "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png",
-        "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=97&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-        "description":"",
-        "Live": false
+    {
+      "title": "DISCOVERY TLC OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=97&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    }
+  ],
+  "Cartoons": [
+    {
+      "title": "TOONCAST",
+      "streamFormat": "hls",
+      "Logo": "https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=108&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TOONCAST OP 2",
+      "streamFormat": "mts",
+      "Logo": "https://3.bp.blogspot.com/-6TeTUuHgsxI/VrV2aR1efMI/AAAAAAAAGs0/f-yRhAXo-RU/s640/Tooncas_logo_jpg.png",
+      "url": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DISCOVERY KIDS MX",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=109&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DISCOVERY KIDS PREMIUM",
+      "streamFormat": "hls",
+      "Logo": "http://img2.wikia.nocookie.net/__cb20140318145557/logopedia/images/4/4b/Discovery_kids_hd_logo.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=infantiles&ch=discoverykids&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NICKELODEO",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=infantiles&ch=nick&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NICK OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=110&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NICK TEEN",
+      "streamFormat": "hls",
+      "Logo": "https://logodix.com/logo/73545.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=TEENNICK&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NICK TEEN OP2",
+      "streamFormat": "hls",
+      "Logo": "https://logodix.com/logo/73545.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2147&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DISNEY XD",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/disney_xd-mediano.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=infantiles&ch=disneyxd&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DISNEY XD OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/disney_xd-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=111&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "CARTOON NETWORK",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=112&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "CARTOON NETWORK HD",
+      "streamFormat": "hls",
+      "Logo": "http://2.bp.blogspot.com/-8Bru2Dsmj_0/TjUakqfuA_I/AAAAAAAACa0/uQkLY8-3t-E/s1600/Cartoon_Network_HD_Wallpaper_.jpg",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=infantiles&ch=cartoonnetwork&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DISNEY CHANNEL",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=infantiles&ch=disneychannel&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DISNEY CHANNEL OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=113&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "BOOMERANG",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=infantiles&ch=boomerang&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "BOOMERANG OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=115&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "BIT ME",
+      "streamFormat": "hls",
+      "Logo": "http://comcab.mx/images/canales/canal_bitme_6838.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "LOCOMOTION",
+      "streamFormat": "hls",
+      "Logo": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/340?cb=20200125124642&path-prefix=es",
+      "url": "http://locomotiontv.com/envivo/loco_ch/stream.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "BABY TV",
+      "streamFormat": "hls",
+      "Logo": "https://i.pinimg.com/originals/e8/3e/b9/e83eb97fac78e9328f8dd32ad2e527e7.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=116&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NICK JR",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=NICKJR&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NICK JR OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=117&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DISNEY JR",
+      "streamFormat": "hls",
+      "Logo": "https://www.dossiernet.com/assets/uploads/images/disney-junior-logo.jpg?_ga=2.184185380.349514327.1616990000-438527464.1616990000",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=DISNEYJR&format=.,m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DISNEY JR OP2",
+      "streamFormat": "hls",
+      "Logo": "https://www.dossiernet.com/assets/uploads/images/disney-junior-logo.jpg?_ga=2.184185380.349514327.1616990000-438527464.1616990000",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=118&f=HLSAD&s,=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "BABY FIRST",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/953px-BabyFirst.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1984&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NAT GEO KIDS",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=NATGEOKIDS&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NAT GEO KIDS OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2373&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    }
+  ],
+  "Canales Premium": [
+    {
+      "title": "STAR ACTION",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarAction_Logo2021_FondoOscuro.png.9ce5338a20f5a3cc2725793156809319.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=foxaction&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR ACTION OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarAction_Logo2021_FondoOscuro.png.9ce5338a20f5a3cc2725793156809319.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR HITS",
+      "streamFormat": "mts",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=foxmovies&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR HITS OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR FUN",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarFun_Logo2021_FondoOscuro.png.2d12c2f71bc530fafe6b6e4d44986ffd.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=foxfamily&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR FUN OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarFun_Logo2021_FondoOscuro.png.2d12c2f71bc530fafe6b6e4d44986ffd.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=FOXFAMILY&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR CINEMA",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=foxcinema&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR CINEMA OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR SERIES",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoOscuro.png.4ad15cde8e848ef14a7b1deb71b3c4c7.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=foxseries&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR SERIES OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoOscuro.png.4ad15cde8e848ef14a7b1deb71b3c4c7.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR COMEDY",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarComedy_Logo2021_FondoOscuro.png.e50f0666a1a77a818216c526901a3351.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=foxcomedy&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR CLASSIC",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarClassics_Logo2021_FondoOscuro.png.f7cd32710dcf0ab5c99586e83e8f2a42.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=foxclassics&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR CLASSIC OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarClassics_Logo2021_FondoOscuro.png.f7cd32710dcf0ab5c99586e83e8f2a42.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=hbo&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=HBO&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO2",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=hbo2&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO2 OP2",
+      "streamFormat": "hls",
+      "Logo": "https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=HBO2&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO PLUS",
+      "streamFormat": "hls",
+      "Logo": "https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=hboplus&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO PLUS OP2",
+      "streamFormat": "hls",
+      "Logo": "https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=HBOPLUS&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO XTREME",
+      "streamFormat": "hls",
+      "Logo": "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=maxprime&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO XTREME OP2",
+      "streamFormat": "hls",
+      "Logo": "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=HBOXTREME&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO FAMILY",
+      "streamFormat": "hls",
+      "Logo": "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=hbofamily&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO FAMILY OP2",
+      "streamFormat": "hls",
+      "Logo": "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=HBOFAMILY&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO MUNDI",
+      "streamFormat": "hls",
+      "Logo": "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=maxlatino&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO MUNDI OP2",
+      "streamFormat": "hls",
+      "Logo": "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=HBOMUNDI&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO POP",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=maxup&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO POP OP2",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_02/large.1101503169_HBOPOP(varianteazul).png.681a6986dbf6d21eeea4d7efccea7e2a.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=HBOPOP&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HBO SIGNATURE",
+      "streamFormat": "hls",
+      "Logo": "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=hbosignature&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    }
+  ],
+  "Peliculas": [
+    {
+      "title": "DISTRITO COMEDIA",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DISTRITO COMEDIA OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=distritocomedia&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "COMEDY CENTRAL",
+      "streamFormat": "hls",
+      "Logo": "https://graffica.info/wp-content/uploads/2018/12/comedy_central_2018_logo-1024x507.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=comedycentral&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "COMEDY CENTRAL OP2",
+      "streamFormat": "hls",
+      "Logo": "https://graffica.info/wp-content/uploads/2018/12/comedy_central_2018_logo-1024x507.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR CHANNEL HD",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fox&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR CHANNEL HD OP2",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "FX HD",
+      "streamFormat": "hls",
+      "Logo": "https://logodix.com/logo/587463.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fx&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "FX HD OP2",
+      "streamFormat": "hls",
+      "Logo": "https://logodix.com/logo/587463.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "FXM",
+      "streamFormat": "hls",
+      "Logo": "https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590787/cb9deda8bcc8c46129f801a52dd0bbea/284x160-Q75_cb9deda8bcc8c46129f801a52dd0bbea.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=fxm&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "FXM OP2",
+      "streamFormat": "hls",
+      "Logo": "https://cdn1.edgedatg.com/aws/v2/fxp_latam/Images/video/14590787/cb9deda8bcc8c46129f801a52dd0bbea/284x160-Q75_cb9deda8bcc8c46129f801a52dd0bbea.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=138&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STAR LIFE",
+      "streamFormat": "hls",
+      "Logo": "https://forounivers.com/uploads/monthly_2021_02/large.StarLife.png.874fdb869596b5e0cd8400d33f3b9aa0.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=foxlife&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "SUNDANCE",
+      "streamFormat": "mts",
+      "Logo": "http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/01/SundanceTV-logo-700x384.jpg",
+      "url": "http://skyplusweb.us:25461/app/monkey/148",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "SONY CHANNEL",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=sony&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "SONY CHANNEL OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=48&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "UNIVERSAL HD",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=universalchannel&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "UNIVERSAL HD OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=207&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STUDIO UNIVERSAL",
+      "streamFormat": "hls",
+      "Logo": "https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=studiouniversal&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "STUDIO UNIVERSAL OP2",
+      "streamFormat": "hls",
+      "Logo": "https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=132&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "WARNER HD",
+      "streamFormat": "hls",
+      "Logo": "http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=warner&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "WARNER HD OP2",
+      "streamFormat": "hls",
+      "Logo": "http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=205&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TNT",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tnt&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TNT OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TNT SERIES",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tntseries&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TNT SERIES OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "SPACE",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=space&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "SPACE OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=129&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "A&E",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=ae&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "A&E OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=62&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "AMC",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=amc&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "AMC OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=328&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "AXN",
+      "streamFormat": "hls",
+      "Logo": "https://shifter.sapo.pt/wp-content/uploads/2015/10/novologoaxn_01.jpg",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=axn&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "AXN OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://shifter.sapo.pt/wp-content/uploads/2015/10/novologoaxn_01.jpg",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=64&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "PARAMOUNT",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=PARAMOUNT&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "PARAMOUNT OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "CINEMAX",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=cinemax&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "CINEMAX OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "CINECANAL",
+      "streamFormat": "hls",
+      "Logo": "https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=cinecanal&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "CINECANAL OP2",
+      "streamFormat": "hls",
+      "Logo": "https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=149&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TBS",
+      "streamFormat": "hls",
+      "Logo": "http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tbs&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TBS OP 2",
+      "streamFormat": "hls",
+      "Logo": "http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=81&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TCM",
+      "streamFormat": "hls",
+      "Logo": "https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=tcm&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TCM OP2",
+      "streamFormat": "hls",
+      "Logo": "https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=128&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "SYFY",
+      "streamFormat": "hls",
+      "Logo": "https://www.retronyms.com/consulting/images/syfy-logo.png",
+      "url": "https://blackghost.live/play/wistream-325.php?cat=latinos&ch=syfy&k=black-ghost&f=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "SYFY OP2",
+      "streamFormat": "hls",
+      "Logo": "https://www.retronyms.com/consulting/images/syfy-logo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=59&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "FILM & ARTS",
+      "streamFormat": "hls",
+      "Logo": "https://forounivers.com/uploads/monthly_2017_08/large.5980d36b95386_filmarts.png.13239020fc8e1751d87c5d268474412d.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=137&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "FILM & ARTS OP2",
+      "streamFormat": "mts",
+      "Logo": "https://forounivers.com/uploads/monthly_2017_08/large.5980d36b95386_filmarts.png.13239020fc8e1751d87c5d268474412d.png",
+      "url": "http://tecnotv.club/got/smtv2.php?c=50",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "E!",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/560px-E!_Logo.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=55&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "E! OP2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/560px-E!_Logo.svg.png",
+      "url": "http://ipeteve.com/php/SR_REGIO160321/tv3.php?c=1524_&f.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "GOLDEN",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "GOLDEN EDGE",
+      "streamFormat": "hls",
+      "Logo": "http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "GOLDEN PLUS",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=122&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "GOLDEN PREMIER",
+      "streamFormat": "hls",
+      "Logo": "https://i2.esmas.com/golden/images/golden-premier-logo-menu.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=GOLDENPREMIER&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DE PELICULA",
+      "streamFormat": "hls",
+      "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/de-pelicula.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "DE PELICULA PLUS",
+      "streamFormat": "hls",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRMdFzHOZYEQAeqniX4n7Xn1cBQJKNMJoJiQ&usqp=CAU",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    }
+  ],
+  "Musica": [
+    {
+      "title": "TELEHIT",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TLHIT_logo.png/245px-TLHIT_logo.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=TELEHIT&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TELEHIT OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TLHIT_logo.png/245px-TLHIT_logo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TELEHIT PLUS",
+      "streamFormat": "hls",
+      "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_eTwBAQAvlyG82g202STXCZ4jNt4_Zw7gWg&usqp=CAU",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=220&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "NICK MUSIC",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1708&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "VH1 HD",
+      "streamFormat": "hls",
+      "Logo": "https://i1.wp.com/www.sopitas.com/wp-content/uploads/2020/04/VH1.jpeg",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=334&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "VH1 HD OP2",
+      "streamFormat": "hls",
+      "Logo": "https://i1.wp.com/www.sopitas.com/wp-content/uploads/2020/04/VH1.jpeg",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=VH1&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "VH1 CLASSIC",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1200px-LOGO_VH1_CLASSIC.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=214&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "HTV",
+      "streamFormat": "mts",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png",
+      "url": "http://tecnotv.club/got/smtv2.php?c=173",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MTV HITS",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=213&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MTV LIVE",
+      "streamFormat": "hls",
+      "Logo": "https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=211&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MTV LIVE OP2",
+      "streamFormat": "mts",
+      "Logo": "https://www.nicepng.com/png/full/57-579706_mtv-live-hd-mtv-live-logo.png",
+      "url": "http://tecnotv.club/got/smtv2.php?c=332",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MTV",
+      "streamFormat": "hls",
+      "Logo": "https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-brand-png-logo-15.png",
+      "url": "https://tv.teleclub.xyz/senal/tele?club=MTV_LIVE_SD&format=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MTV OP 2",
+      "streamFormat": "hls",
+      "Logo": "https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-brand-png-logo-15.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=212&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MTV DANCE",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/MTV_Dance_2017_logo_Australia.svg/1200px-MTV_Dance_2017_logo_Australia.svg.png",
+      "url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "BANDAMAX",
+      "streamFormat": "hls",
+      "Logo": "https://home-statics.boletia.com/uploads/sponsor/logo/130351/BANDAMAX.png",
+      "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m.=.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "LATINO UP",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Latinos_Up_TV_entretenimiento_online_en_New_York_y_el_mundo.png",
+      "url": "https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MUSICA TOP",
+      "streamFormat": "hls",
+      "Logo": "https://www.foromedios.com/uploads/monthly_2016_11/large.musictop_poster_-_copia.png.3681a31fef51ae9014cf64b2763b5f50.png",
+      "url": "http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TOP MUSIC",
+      "streamFormat": "hls",
+      "Logo": "http://www.topmusic.com.mx/img/music-club-logo-1466528095.jpg",
+      "url": "https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "TVEXITOS",
+      "streamFormat": "hls",
+      "Logo": "https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png",
+      "url": "https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MUSICA POP",
+      "streamFormat": "hls",
+      "Logo": "https://hqm.es/wp-content/uploads/pop-hqm-logo.png",
+      "url": "https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MUSICA ROCK",
+      "streamFormat": "hls",
+      "Logo": "https://hqm.es/wp-content/uploads/rock-hqm-logo.png",
+      "url": "https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MUSICA HITS",
+      "streamFormat": "hls",
+      "Logo": "https://hqm.es/wp-content/uploads/hits-hqm-logo.png",
+      "url": "https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MUSICA REMEMBER",
+      "streamFormat": "hls",
+      "Logo": "https://hqm.es/wp-content/uploads/remember-hqm-logo.png",
+      "url": "https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8",
+      "description": "",
+      "Live": false
+    },
+    {
+      "title": "MUSICA RELAX",
+      "streamFormat": "hls",
+      "Logo": "https://hqm.es/wp-content/uploads/relax-hqm-logo.png",
+      "url": "https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8",
+      "description": "",
+      "Live": false
     }
   ]
 }
