@@ -1,9 +1,6 @@
 {
-    "categories":[
+    "Television abierta":[
         {
-            "nameCategory":"Televisión abierta",
-            "channels":[
-                {
                     "title":"LAS ESTRELLAS HD",
                     "streamFormat":"hls",
                     "Logo":"http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
@@ -19,12 +16,9 @@
                     "Live":false,
                     "description":"Canal de las estrellas"
                 }
-            ]
-        },
+    ],
+     "Novelas":[
         {
-            "nameCategory":"Novelas",
-            "channels":[
-                {
                     "title":"LAS ESTRELLAS HD",
                     "streamFormat":"hls",
                     "Logo":"http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
@@ -40,7 +34,6 @@
                     "Live":false,
                     "description":"Canal de las estrellas"
                 }
-            ]
-        }
     ]
+ 
 }
