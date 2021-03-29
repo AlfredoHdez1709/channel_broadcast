@@ -1,39 +1,54 @@
 {
-    "Television abierta":[
+    "Television abierta": [
         {
-                    "title":"LAS ESTRELLAS HD",
-                    "streamFormat":"hls",
-                    "Logo":"http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
-                    "url":"https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-                    "Live":false,
-                    "description":"Canal de las estrellas"
-                },
-                {
-                    "title":"Pruebas ",
-                    "streamFormat":"hls",
-                    "Logo":"http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
-                    "url":"https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-                    "Live":false,
-                    "description":"Canal de pruebas"
-                }
+            "title": "LAS ESTRELLAS HD",
+            "streamFormat": "hls",
+            "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
+            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+            "Live": false,
+            "description": "Las Estrellas es una cadena de televisión mexicana propiedad de Grupo Televisa. Su primera emisión oficial fue el 21 de marzo de 1951. Transmite en señal abierta en todo el territorio mexicano a través de una red de 129 estaciones retransmisoras propias, 2 estaciones afiliadas y 1 retransmisora por multiprogramación."
+        },
+        {
+            "title": "LAS ESTRELLAS HD OP2",
+            "streamFormat": "hls",
+            "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
+            "Stream": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+            "Live": false,
+            "description": "Las Estrellas es una cadena de televisión mexicana propiedad de Grupo Televisa. Su primera emisión oficial fue el 21 de marzo de 1951. Transmite en señal abierta en todo el territorio mexicano a través de una red de 129 estaciones retransmisoras propias, 2 estaciones afiliadas y 1 retransmisora por multiprogramación."
+        },
+        {
+            "title": "ESTRELLA TV",
+            "streamFormat": "hls",
+            "Logo": "http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png",
+            "Stream": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
+            "Live": false,
+            "description": "Las Estrellas es una cadena de televisión mexicana propiedad de Grupo Televisa. Su primera emisión oficial fue el 21 de marzo de 1951. Transmite en señal abierta en todo el territorio mexicano a través de una red de 129 estaciones retransmisoras propias, 2 estaciones afiliadas y 1 retransmisora por multiprogramación."
+        },
+        {
+            "title": "AZTECA UNO",
+            "streamFormat": "hls",
+            "Logo": "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",
+            "Stream": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+            "Live": false,
+            "description": "TV Azteca,  es un conglomerado mexicano de medios de comunicación, Es la segunda mayor generadora de contenidos en español en el mundo, propiedad de Grupo Salinas."
+        }
     ],
-     "Novelas":[
+    "Novelas": [
         {
-                    "title":"Otro dato",
-                    "streamFormat":"hls",
-                    "Logo":"http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
-                    "url":"https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-                    "Live":false,
-                    "description":"Calas"
-                },
-                {
-                    "title":"TVNovelas",
-                    "streamFormat":"hls",
-                    "Logo":"http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
-                    "url":"https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
-                    "Live":false,
-                    "description":"Canal de Novelas"
-                }
+            "title": "Otro dato",
+            "streamFormat": "hls",
+            "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
+            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+            "Live": false,
+            "description": "Calas"
+        },
+        {
+            "title": "TVNovelas",
+            "streamFormat": "hls",
+            "Logo": "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png",
+            "url": "https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8",
+            "Live": false,
+            "description": "Canal de Novelas"
+        }
     ]
- 
 }
